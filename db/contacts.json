@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-22"
+  },
+  {
+    "id": "2",
+    "name": "Artem",
+    "email": "a.masliy@ukr.net",
+    "phone": "(268) 547-1234"
+  },
+  {
+    "id": "4",
+    "name": "Wylie Pope",
+    "email": "est@utquamvel.net",
+    "phone": "(692) 802-2949"
+  },
+  {
+    "id": "5",
+    "name": "Cyrus Jackson",
+    "email": "nibh@semsempererat.com",
+    "phone": "(501) 472-5218"
+  },
+  {
+    "id": "6",
+    "name": "Abbot Franks",
+    "email": "scelerisque@magnis.org",
+    "phone": "(186) 568-3720"
+  },
+  {
+    "id": "7",
+    "name": "Reuben Henry",
+    "email": "pharetra.ut@dictum.co.uk",
+    "phone": "(715) 598-5792"
+  },
+  {
+    "id": "8",
+    "name": "Simon Morton",
+    "email": "dui.Fusce.diam@Donec.com",
+    "phone": "(233) 738-2360"
+  },
+  {
+    "id": "9",
+    "name": "Thomas Lucas",
+    "email": "nec@Nulla.com",
+    "phone": "(704) 398-7993"
+  },
+  {
+    "id": "10",
+    "name": "Alec Howard",
+    "email": "Donec.elementum@scelerisquescelerisquedui.net",
+    "phone": "(748) 206-2688"
+  },
+  {
+    "id": "649d40d6-c7a4-450d-9a70-43e7e8d9fe11",
+    "name": "Artem",
+    "email": "a.masliy@ukr.net",
+    "phone": "(268) 547-1234"
+  },
+  {
+    "id": "79690114-46f2-4311-b179-f403d37bdcfa",
+    "name": "Artem",
+    "email": "a.masliy@ukr.net",
+    "phone": "(268) 547-1234"
+  },
+  {
+    "id": "56fcf2e7-78ed-4c81-ba60-42c56d0a6681",
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-22"
+  }
+]
