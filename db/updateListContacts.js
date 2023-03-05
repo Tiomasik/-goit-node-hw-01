@@ -1,9 +1,9 @@
 const fs = require('fs/promises');
 
-const filePath = require('./filePath');
+const contactsPath = require('./contactsPath');
 
 const updateListContacts = async allContacts => {
-  await fs.writeFile(filePath, JSON.stringify(allContacts));
+  await fs.writeFile(contactsPath, JSON.stringify(allContacts));
 };
 
 module.exports = updateListContacts;
